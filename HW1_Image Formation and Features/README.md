@@ -1,6 +1,6 @@
 ## Part 1. Harris Corner Detection
 
-#### Implementation
+### Implementation
 1. Gaussian Smooth
 2. Sobel Edge Detection
 3. Structure Tensor
@@ -8,7 +8,7 @@
 
 ## Part 2. Image Sensing Pipeline
 
-#### Implementation
+### Implementation
 1. Color Correction
 2. Generate White Balance Mask
 3. Mosaic
